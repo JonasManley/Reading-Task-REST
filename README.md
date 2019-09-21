@@ -5,8 +5,6 @@
 * In year 2000, the software engineer and researcher <a href=https://roy.gbiv.com/>Roy Fielding</a> published his <a href=https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm>PhD thesis</a>, entitled: <br>
 Architectural Styles and the Design of Network-based Software Architectures, in which he introduced and defined the concept behind the now so popular abbreviation REST.
 
-<br>
-
 <h2>Read the document and try to find the answers of the following questions:</h2>
 
 **1. What exactly is REST? How does the context of it fits to the title of the dissertation?**
