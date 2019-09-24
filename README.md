@@ -13,9 +13,6 @@ Architectural Styles and the Design of Network-based Software Architectures, in 
 When a REST webservice (REST API) is called, the server will transfer a representation of the state of the requested resource to the client. <br>
 E.g. if you ask Facebooks API about a specific user, you will get the whole state: username, name, birthday, emial etc.
 
-
-**2. Why is the dissertation considered so important for the software-architectural world?**
-
 * **Client-Server**:<br>
 By separating the user interface concerns from the data storage concerns, we improve the portability of the user interface across multiple platforms and improve scalability by simplifying the server components.
 
@@ -33,6 +30,11 @@ By applying the software engineering principle of generality to the component in
 Layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior such that each component cannot "see" beyond the immediate layer with which they are interacting. By restricting knowledge of the system to a single layer, we place a bound on the overall system complexity and promote substrate independence.
 
 * Unlike SOAP, REST is not constrained to return data in XML, but instead can return XML, JSON, YAML or any other format depending on what the client requests.
+
+
+**2. Why is the dissertation considered so important for the software-architectural world?**
+I has become very simple and light weight and fast with the introduction of the REST webservice! 
+
 
 **3. Which is the most valuable outcome you personally get from it?**
 * They are easy to use & create and works very well in applications that handles different data and data requests.
